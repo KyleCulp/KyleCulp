@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on projects AshNotes & NutriSync, and packages ex_pve, ex_pmg, & ex_pbs
+- 🔭 I’m currently working on projects AshNotes & NutriSync, and elixir packages ex_pve, ex_pmg, & ex_pbs
 - 🌱 I’m currently learning Ash 3.0, Rust, and a deeper understanding of Elixir
 - 💬 Ask me about hardware, homelabs, and random 
 - 📫 How to reach me: discord: kyledculp
